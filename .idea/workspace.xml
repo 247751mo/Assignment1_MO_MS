@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c47a9c4-c5d7-4e4e-9486-7f9818aee8d8" name="Changes" comment="poprawki">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/247751mo/Assignment1_MO_MS.git&quot;,
-    &quot;accountId&quot;: &quot;010dfbca-a340-40ee-bbde-0c2085d9be5e&quot;
+    &quot;accountId&quot;: &quot;6349ce74-2f05-4eba-b8ec-40a79a329b5d&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -55,6 +56,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -97,8 +101,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
-        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
@@ -113,6 +117,8 @@
       <workItem from="1730226244762" duration="7282000" />
       <workItem from="1730234033479" duration="577000" />
       <workItem from="1730282428209" duration="9432000" />
+      <workItem from="1730294826688" duration="2396000" />
+      <workItem from="1730297499463" duration="1732000" />
     </task>
     <task id="LOCAL-00001" summary="Dodanie plików">
       <option name="closed" value="true" />

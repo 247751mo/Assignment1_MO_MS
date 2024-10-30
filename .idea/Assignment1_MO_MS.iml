@@ -9,6 +9,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="C:\PY\PycharmProjects\Assignment1_MO_MS\requirements.txt" />
     <option name="modifyBaseFiles" value="true" />
   </component>
 </module>
