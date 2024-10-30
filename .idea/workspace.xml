@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c47a9c4-c5d7-4e4e-9486-7f9818aee8d8" name="Changes" comment="poprawki">
-      <change beforePath="$PROJECT_DIR$/.idea/Assignment1_MO_MS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignment1_MO_MS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.ipynb" afterDir="false" />
     </list>
@@ -115,7 +113,7 @@
       <updated>1730226243548</updated>
       <workItem from="1730226244762" duration="7282000" />
       <workItem from="1730234033479" duration="577000" />
-      <workItem from="1730282428209" duration="7152000" />
+      <workItem from="1730282428209" duration="8800000" />
     </task>
     <task id="LOCAL-00001" summary="Dodanie plików">
       <option name="closed" value="true" />
@@ -165,11 +163,42 @@
       <option name="project" value="LOCAL" />
       <updated>1730233570914</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="poprawki">
+      <option name="closed" value="true" />
+      <created>1730290304168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730290304168</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
